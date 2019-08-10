@@ -1,12 +1,12 @@
-Installation
-git clone https://github.com/caleboki/acl.git
+### Installation
+- git clone https://github.com/hightower9/AccessControlList.git
 
-cd acl
+- cd AccessControlList
 
-composer install
+- composer install
 
-save the .env.example to .env
+- Save the .env.example to .env
 
-update the .env file with your db credentials
+- Update the .env file with your Database credentials
 
-php artisan key:generate
+- php artisan key:generate
